@@ -1,6 +1,6 @@
 {
-  "bot_token": "NzMwNDQwMDA5OTQwNzI5OTc3.XwXiLA.edzPXL62_LbsVHj_PayHhVaXA7k",
+  "bot_token": "bot_token",
   "website_url": "https://csgospin.live",
-  "status_channel_id": "729821575414808728",
-  "guild_id": "729817760485605468"
+  "status_channel_id": "status_channel_id",
+  "guild_id": "guild_id"
 }
