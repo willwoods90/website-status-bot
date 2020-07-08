@@ -36,7 +36,7 @@ const websiteCheck = async function(){
 
 client.once('ready', () => {
     // Every 5 minutes, run our check.
-  const scheduledCheck = schedule.scheduleJob('*/5 * * * *', function(){
+  const scheduledCheck = schedule.scheduleJob('*/6 * * * *', function(){
     console.log('Checking Status of site');
     websiteCheck();
   });
